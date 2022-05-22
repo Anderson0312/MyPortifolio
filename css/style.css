@@ -798,6 +798,11 @@ h3.my-profession {
 
 
 @media (max-width: 1199px) {
+    .section .container {
+        margin-top:40px;
+
+    }
+
     .aside {
         left: -270px;
     }
