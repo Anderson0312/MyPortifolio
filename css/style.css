@@ -56,7 +56,7 @@ ul {
     z-index: 0;
     overflow-y:auto;
     overflow-x: hidden;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 
 .section.back-section {
@@ -179,7 +179,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 
 .aside .logo {
@@ -238,7 +238,7 @@ ul {
     display: none;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
 }
 
 .aside .nav-toggler span {
