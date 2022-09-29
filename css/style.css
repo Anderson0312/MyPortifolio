@@ -701,6 +701,11 @@ h3.my-profession {
     display: block;
 }
 
+.portfolio-desc {
+    text-align: center;
+    color: var(--skin-color);
+}
+
 
 
 /* Contact */
